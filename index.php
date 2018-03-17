@@ -9,7 +9,8 @@
 	</head>
 	<body>
 		<div class="img_container">
-			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNBRjhDkPuJrsCEU5jvAXJZT-u-QXm0_h7QEfBH1p1tV28zGZIw">
+			<img class="media" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNBRjhDkPuJrsCEU5jvAXJZT-u-QXm0_h7QEfBH1p1tV28zGZIw">
 		</div>
+		<div class="picks"></div>
 	</body>
 </html>

@@ -1,4 +1,9 @@
 .img_container{
-	text-align: center;
+	float: left;
 	padding: 40px;
+}
+.picks{
+	float: right;
+	padding: 40px;
+	background-color: #FFF;
 }
